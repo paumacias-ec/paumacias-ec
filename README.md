@@ -4,15 +4,33 @@
 
 ###
 
-<h1 align="center">Hey there 🙂</h1>
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
 
-<p align="left">I'm Pau from Ecuador<br><br>- 🔭 I’m a Marketing Professional focused on Growth Mardketing.<br>- 🤍 I am currently developing as a Data Analyst to leverage Marketing and Sales Systems.<br></p>
+<h1 align="center">😀 Hi there, I'm Pau Macias</h1>
 
-###
+<p align="center">
+  <a href="paumaciaspro">Website</a>  •
+  <a href="https://linkedin.com/in/paumacias-ec">LinkedIn</a> •
+  <a href="https://github.com/paumacias-ec">GitHub</a>
+</p>
 
-<h3 align="left">🛠 My Skills and tools</h3>
+
+I’m a Marketing Professional with a strong background in **Data Analysis**, passionate about driving growth through data-driven marketing strategies. I thrive on turning complex data into actionable insights that fuel business success.
+
+
+- 🔭 I'm currently developing as a **Data Analyst** to leverage **Marketing and Sales Systems.**
+- 🌱 Learning: **Deep Data Analysis**
+- 💬 Ask me about: **Growth Marketing, KPI's, Market Developement, Pricing**
+- 📍 Based in: **Ecuador**
+- 📫 Reach me: [paulina.lmf@gmail.com](mailto:paulina.lmf@gmail.com)
+- ☕ Fun fact: I love lattes, cats and nature
+
+
+<h3 align="left">My Skills and tools</h3>
 
 ###
 
@@ -32,13 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+### ☕ Support Me
 
-###
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/paumacias)
